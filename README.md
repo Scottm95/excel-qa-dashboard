@@ -55,7 +55,7 @@ This dashboard was designed to support the Quality Assurance (QA) team in tracki
 ## Files Included
 - 'Excel_Dashboard_Aug_25_.xlsx' - Excel file containing the dashboard and a readme instruction page
 - 'Excel_QA_Dashboard.png' - Screenshot of the final Excel dashboard
-- 'readme_Excel.md' - Project overview and documentation
+- 'README.md' - Project overview and documentation
 
 
 ## Notes
